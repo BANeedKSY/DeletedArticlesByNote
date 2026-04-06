@@ -1,4 +1,4 @@
-# DeletedArticlesByNote
+# NoteExhumed
 
 ## 概要
 私は、SNS noteで、ID「fake_banksy」、アカウント名「バンクシーもどきの蛮苦恣意」として約半年にわたり記事や独自作成した画像を投稿しておりました。
